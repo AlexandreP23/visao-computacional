@@ -2,7 +2,7 @@
 ##Aluno: Alexandre Godoy Peres
 
 # Rastreamento de Jogadores de Futebol com OpenCV
-Este projeto utiliza a biblioteca OpenCV para rastrear jogadores de futebol em um vídeo. Nele consta são implementados dois algoritmos de rastreamento CSRT (Channel and Spatial Reliability Tracker) e o KFC (Kernel Correlation Filters) para monitorar a posição dos jogadores ao longo do tempo. 
+Este projeto utiliza a biblioteca OpenCV para rastrear jogadores de futebol em um vídeo. Nele são implementados dois algoritmos de rastreamento CSRT (Channel and Spatial Reliability Tracker) e o KFC (Kernel Correlation Filters) para monitorar a posição dos jogadores ao longo do tempo. 
 A principal ideia do projeto é poder extrair uma infinidade de insights e métricas dos jogadores, fazer previsões, medições de performance e etc.
 
 ## Contribuição
