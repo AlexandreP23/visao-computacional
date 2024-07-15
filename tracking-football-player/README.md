@@ -1,18 +1,18 @@
 FIA
 Aluno: Alexandre Godoy Peres
 
-Rastreamento de Jogadores de Futebol com OpenCV
+#Rastreamento de Jogadores de Futebol com OpenCV
 Este projeto utiliza a biblioteca OpenCV para rastrear jogadores de futebol em um vídeo. Nele consta são implementados dois algoritmos de rastreamento CSRT (Channel and Spatial Reliability Tracker) e o KFC (Kernel Correlation Filters) para monitorar a posição dos jogadores ao longo do tempo. 
 A principal ideia do projeto é poder extrair uma infinidade de insights e métricas dos jogadores, fazer previsões, medições de performance e etc.
 
-Contribuição
+##Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Pré-requisitos
+##Pré-requisitos
 Python 3.6 ou superior
 OpenCV 4.5 ou superior
 
-Uso
+##Uso
 1 - Certifique-se de que o caminho para o seu vídeo está correto no script. O caminho atual é:
 video_path = r'C:\Senac\I.A\visao-computacional\tracking-football-player\video_football.mp4'
 
